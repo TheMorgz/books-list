@@ -1,3 +1,5 @@
+https://img.shields.io/github/go-mod/go-version/TheMorgz/books-list?logo=go
+
 # Books-List Go API + React Front-End
 
 Go REST API Implementation with React &amp; Redux
