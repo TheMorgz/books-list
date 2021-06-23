@@ -17,3 +17,5 @@ Go REST API Implementation with React &amp; Redux
 > Build the handler functions to make queries to the database and perform CRUD operations on persistent data.
 
 > Make use of packages such as gorilla/mux, strconv, reflect and etc.
+
+* TODO: React Front-End + Refactoring
