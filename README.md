@@ -1,3 +1,5 @@
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/TheMorgz/books-list?logo=go) 
+
 # Books-List Go API + React Front-End
 
 Go REST API Implementation with React &amp; Redux
@@ -17,3 +19,5 @@ Go REST API Implementation with React &amp; Redux
 > Build the handler functions to make queries to the database and perform CRUD operations on persistent data.
 
 > Make use of packages such as gorilla/mux, strconv, reflect and etc.
+
+* TODO: React Front-End + Refactoring
