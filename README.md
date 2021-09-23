@@ -1,6 +1,6 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/TheMorgz/books-list?logo=go) 
 
-# Books-List Go API + React Front-End
+# Books-List Go API
 
 Go REST API;
 
